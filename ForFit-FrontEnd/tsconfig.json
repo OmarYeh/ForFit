@@ -1,0 +1,17 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true,
+    "paths": {
+      "@/*": [
+        "./*"
+      ]
+    }
+  },
+  "include": [
+    "**/*.ts",
+    "**/*.tsx",
+    ".expo/types/**/*.ts",
+    "expo-env.d.ts"
+, "app/LoginScreen.js", "app/Hellocard.js", "app/Login.js", "app/Register.js", "app/Welcome.js", "babel.config.js", "components/ui/AlertMessage.js", "app/_layout.js"  ]
+}

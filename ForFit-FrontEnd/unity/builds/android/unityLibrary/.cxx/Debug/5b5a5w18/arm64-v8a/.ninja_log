@@ -1,0 +1,12 @@
+# ninja log v5
+47	485	7621173282065218	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	9094cd953e793f86
+488	713	7621173284317195	C:/Users/User/Desktop/FYP/ForFit/ForFit-FrontEnd/unity/builds/android/unityLibrary/build/intermediates/cxx/Debug/5b5a5w18/obj/arm64-v8a/libswappywrapper.so	12d2c7a4a43b7009
+22	4988	7621173326973373	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	efebc1892f4d51db
+12	5016	7621173327309025	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	6f89c7c3571459c7
+41	5047	7621173327605660	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	a7ca36b3cac038d3
+17	5057	7621173327686160	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	ce5ddaa9edfb227
+33	5080	7621173328013821	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	5badd53e974150ca
+7	5111	7621173328295089	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	7429b64b13fed74b
+27	5221	7621173329413537	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	7a53f8c2e5193742
+2	5252	7621173329683997	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	f75873b0df8c5a2e
+5253	5381	7621173331008195	C:/Users/User/Desktop/FYP/ForFit/ForFit-FrontEnd/unity/builds/android/unityLibrary/build/intermediates/cxx/Debug/5b5a5w18/obj/arm64-v8a/libgame.so	77731ce8c05ab9ee

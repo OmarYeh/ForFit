@@ -1,0 +1,183 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:tools="http://schemas.android.com/tools"
+4    package="com.unity3d.player" >
+5
+6    <uses-sdk android:minSdkVersion="31" />
+7
+8    <uses-permission android:name="android.permission.INTERNET" />
+8-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:3:3-65
+8-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:3:20-62
+9    <uses-permission android:name="android.permission.CAMERA" />
+9-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:4:3-63
+9-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:4:20-60
+10
+11    <uses-feature android:glEsVersion="0x00030000" />
+11-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:5:3-52
+11-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:5:17-49
+12    <uses-feature
+12-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:6:3-91
+13        android:name="android.hardware.vulkan.version"
+13-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:6:17-63
+14        android:required="false" />
+14-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:6:64-88
+15    <uses-feature
+15-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:7:3-83
+16        android:name="android.hardware.camera"
+16-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:7:17-55
+17        android:required="false" />
+17-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:7:56-80
+18    <uses-feature
+18-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:8:3-93
+19        android:name="android.hardware.camera.autofocus"
+19-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:8:17-65
+20        android:required="false" />
+20-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:8:66-90
+21    <uses-feature
+21-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:9:3-89
+22        android:name="android.hardware.camera.front"
+22-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:9:17-61
+23        android:required="false" />
+23-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:9:62-86
+24    <uses-feature
+24-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:10:3-88
+25        android:name="android.hardware.touchscreen"
+25-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:10:17-60
+26        android:required="false" />
+26-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:10:61-85
+27    <uses-feature
+27-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:11:3-99
+28        android:name="android.hardware.touchscreen.multitouch"
+28-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:11:17-71
+29        android:required="false" />
+29-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:11:72-96
+30    <uses-feature
+30-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:12:3-108
+31        android:name="android.hardware.touchscreen.multitouch.distinct"
+31-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:12:17-80
+32        android:required="false" />
+32-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:12:81-105
+33
+34    <application
+34-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:13:3-34:17
+35        android:enableOnBackInvokedCallback="false"
+35-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:13:16-59
+36        android:extractNativeLibs="true" >
+36-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:13:60-92
+37        <meta-data
+37-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:14:5-69
+38            android:name="unity.splash-mode"
+38-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:14:16-48
+39            android:value="0" />
+39-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:14:49-66
+40        <meta-data
+40-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:15:5-74
+41            android:name="unity.splash-enable"
+41-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:15:16-50
+42            android:value="True" />
+42-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:15:51-71
+43        <meta-data
+43-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:16:5-78
+44            android:name="unity.launch-fullscreen"
+44-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:16:16-54
+45            android:value="True" />
+45-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:16:55-75
+46        <meta-data
+46-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:17:5-84
+47            android:name="unity.render-outside-safearea"
+47-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:17:16-60
+48            android:value="True" />
+48-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:17:61-81
+49        <meta-data
+49-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:18:5-81
+50            android:name="notch.config"
+50-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:18:16-43
+51            android:value="portrait|landscape" />
+51-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:18:44-78
+52        <meta-data
+52-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:19:5-84
+53            android:name="unity.auto-report-fully-drawn"
+53-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:19:16-60
+54            android:value="true" />
+54-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:19:61-81
+55        <meta-data
+55-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:20:5-80
+56            android:name="unity.auto-set-game-state"
+56-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:20:16-56
+57            android:value="true" />
+57-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:20:57-77
+58        <meta-data
+58-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:21:5-78
+59            android:name="unity.strip-engine-code"
+59-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:21:16-54
+60            android:value="true" />
+60-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:21:55-75
+61
+62        <activity
+62-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:22:5-32:16
+63            android:name="com.unity3d.player.UnityPlayerGameActivity"
+63-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:22:312-369
+64            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+64-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:22:15-196
+65            android:enabled="true"
+65-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:22:197-219
+66            android:exported="true"
+66-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:22:220-243
+67            android:hardwareAccelerated="false"
+67-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:22:244-279
+68            android:launchMode="singleTask"
+68-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:22:280-311
+69            android:resizeableActivity="true"
+69-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:22:370-403
+70            android:screenOrientation="fullUser"
+70-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:22:404-440
+71            android:theme="@style/BaseUnityGameActivityTheme" >
+71-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:22:441-490
+72
+73            <!--
+74      <intent-filter>
+75        <category android:name="android.intent.category.LAUNCHER" />
+76        <action android:name="android.intent.action.MAIN" />
+77      </intent-filter>
+78            -->
+79            <meta-data
+79-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:27:7-82
+80                android:name="unityplayer.UnityActivity"
+80-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:27:18-58
+81                android:value="true" />
+81-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:27:59-79
+82            <meta-data
+82-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:28:7-77
+83                android:name="android.app.lib_name"
+83-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:28:18-53
+84                android:value="game" />
+84-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:28:54-74
+85            <meta-data
+85-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:29:7-130
+86                android:name="WindowManagerPreference:FreeformWindowSize"
+86-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:29:18-75
+87                android:value="@string/FreeformWindowSize_maximize" />
+87-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:29:76-127
+88            <meta-data
+88-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:30:7-145
+89                android:name="WindowManagerPreference:FreeformWindowOrientation"
+89-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:30:18-82
+90                android:value="@string/FreeformWindowOrientation_landscape" />
+90-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:30:83-142
+91            <meta-data
+91-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:31:7-70
+92                android:name="notch_support"
+92-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:31:18-46
+93                android:value="true" />
+93-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:31:47-67
+94        </activity>
+95
+96        <meta-data
+96-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:33:5-77
+97            android:name="com.google.ar.core"
+97-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:33:16-49
+98            android:value="optional" />
+98-->C:\Users\User\Desktop\FYP\ForFit\ForFit-FrontEnd\unity\builds\android\unityLibrary\src\main\AndroidManifest.xml:33:50-74
+99    </application>
+100
+101</manifest>
