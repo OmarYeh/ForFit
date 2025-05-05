@@ -1,4 +1,4 @@
-#ForFit – E-Commerce Fashion Store with AR & AI
+# ForFit – E-Commerce Fashion Store with AR & AI
 
 **ForFit** is a next-generation fashion e-commerce platform that transforms online shopping with **Augmented Reality (AR)** virtual try-on and an **AI-powered fashion assistant**. It allows users to visualize clothing on themselves in real time and get personalized outfit recommendations—making online fashion shopping more confident, interactive, and fun.
 
