@@ -71,3 +71,6 @@ ForFit bridges the gap between traditional online shopping and in-store experien
 | Pose Tracking| Python + MediaPipe       | Server-side pose detection                   |
 | Asset Hosting| Firebase                 | Serving 3D garments                          |
 | AI Assistant | OpenAI GPT-4o            | Fashion chatbot (FitBot)                     |
+
+## Video Demo
+- [Click here to watch the demo on Google Drive](https://drive.google.com/file/d/1M4VrTn4m29jMfqvuuT6o87vo2_S7l8Dy/view?usp=sharing)
